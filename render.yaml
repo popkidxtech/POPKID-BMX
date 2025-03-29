@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: PRINCE-MDXI
+    name: POPKID-BMX
     env: node
     plan: free
     buildCommand: npm install
