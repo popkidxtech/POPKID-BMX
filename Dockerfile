@@ -1,16 +1,20 @@
 FROM node:lts-buster
 
-# Clone the repository into /root/POPKID-BMX
-RUN git clone https://github.com/popkidxtech/POPKID-BMX.git /root/POPKID-BMX
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-# Set working directory
-WORKDIR /root/POPKID-BMX
+COPY package.json .
 
-# Install dependencies
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+RUN npm install && npm install -g qrcode-terminal pm2
 
-# Expose port
-EXPOSE 9090
+COPY . .
 
-# Start the bot
-CMD ["npm", "start"]
+EXPOSE 3000
+
+
+CMD ["pm2-runtime", "start", "index.js"]
