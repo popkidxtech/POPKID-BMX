@@ -12,6 +12,11 @@
     <img src='https://img.shields.io/badge/𝐅𝐎𝐑𝐊 𝐑𝐄𝐏𝐎-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
+ # 🤍 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
+</a></p>
+- <a href="https://popkid.vercel.app/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
+ 
+
 ## _📡 DEPLOYMENT_
 
 <div align="center">
