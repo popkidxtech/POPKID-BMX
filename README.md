@@ -9,5 +9,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
    <a href='https://github.com/devpopkid/POPKID-BMX/fork' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+    <img src='https://img.shields.io/badge/𝐅𝐎𝐑𝐊 𝐑𝐄𝐏𝐎-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
