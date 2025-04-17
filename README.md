@@ -27,3 +27,19 @@
     </tr>
   </table>
 </div>
+
+## 🤖 _POPKID-BMX STATUS_
+
+```diff
++ Project Status: Active
+! Version: 3.0.0 Neon Edition
+# License: MIT
+```
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  </div>
+
+
+<h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
