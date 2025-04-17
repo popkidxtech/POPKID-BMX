@@ -8,4 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/devpopkid/POPKID-BMX/fork"><img title="POPKID-BMX" src="https://img.shields.io/badge/FORK-POPKID-BMX -h?color=008000&style=for-the-badge&logo=github"></a>
+   <a href='https://github.com/devpopkid/POPKID-BMX/fork' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
