@@ -22,7 +22,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "ZIPPY-MD",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/nk71o3.jpg",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/kiy0hl.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PᴏᴘᴋɪᴅXᴛᴇᴄʜ",
   OWNER_NAME: process.env.OWNER_NAME || "POPKID",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
