@@ -6,7 +6,7 @@ const repo = async (m, gss) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(" ")[0].toLowerCase() : "";
 
   if (["repo", "sc", "script", "info"].includes(cmd)) {
-    const githubRepoURL = "https://github.com/Popkiddevs/POPKID-XTECH";
+    const githubRepoURL = "https://github.com/devpopkid/POPKID-BMX";
 
     try {
       // Extract username and repo name from the URL
@@ -28,7 +28,7 @@ const repo = async (m, gss) => {
       await gss.sendMessage(
         m.from,
         {
-          image: { url: "https://files.catbox.moe/nk71o3.jpg" },
+          image: { url: "https://files.catbox.moe/kiy0hl.jpg" },
           caption: formattedInfo,
           contextInfo: {
             mentionedJid: [m.sender],
@@ -48,7 +48,7 @@ const repo = async (m, gss) => {
       await gss.sendMessage(
         m.from,
         {
-          audio: { url: "https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a" },
+          audio: { url: "https://files.catbox.moe/5df4ei.m4v" },
           mimetype: "audio/mp4",
           ptt: true,
           contextInfo: {
