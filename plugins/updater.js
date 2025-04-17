@@ -63,7 +63,7 @@ const update = async (m, Matrix) => {
             
             const response = await axios({
                 method: 'get',
-                url: "https://github.com/popkidxtech/ZIPPY-MD/archive/main.zip",
+                url: "https://github.com/devpopkid/POPKID-BMX/archive/main.zip",
                 responseType: 'stream'
             });
 
