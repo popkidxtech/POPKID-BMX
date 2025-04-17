@@ -11,3 +11,19 @@
    <a href='https://github.com/devpopkid/POPKID-BMX/fork' target="_blank">
     <img src='https://img.shields.io/badge/𝐅𝐎𝐑𝐊 𝐑𝐄𝐏𝐎-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
+
+## _📡 DEPLOYMENT_
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/devpopkid/POPKID-BMX" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=devpopkid/POPKID-BMX"" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+    </tr>
+  </table>
+</div>
